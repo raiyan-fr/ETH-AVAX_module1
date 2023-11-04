@@ -1,4 +1,4 @@
-# **ETH+AVAX Intermediate Module1 Project**
+# **ERROR_HANDLING**
 The smart contract has been created using the Solidity programming language, which is essentially responsible to represent all sort of erorr handling in solidity.
 
 # Description
